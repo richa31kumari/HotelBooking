@@ -26,10 +26,9 @@ Process followed
 2. Checking for outliers and handling them using SQL 
 3. Removing unnecessary fields from the dataset using SQL 
 4. Formation of separate measures table for easier checking in Power BI 
-5. Formation of Calendar table for achieving a continous time series graph for Sales trend 
-6. Use of charts and cards for proper visualization of facts in Power BI 
-7. Use of navigation between dashboard pages for smooth gliding from insight to insight 
-8. Validation of the Power BI insights using SQL for accuracy
+5. Use of charts and cards for proper visualization of facts in Power BI 
+6. Use of navigation between dashboard pages for smooth gliding from insight to insight 
+7. Validation of the Power BI insights using SQL for accuracy
 
 End Result i) A visual dashboard highlighting the Hotel Booking trend over a time period has been shown.
 ## Files Attached
