@@ -18,7 +18,7 @@ Richa Kumari
 
 In this Project we will be analysing what are the top destinations all over the world and top rated hotels over there. This project also talks about the profit in this business over period of time and what are the key factors increasing the profit( like: People of certain age group, Gender etc.)
 
-Tools used • SQL – for Data cleaning and Data Validation • Power BI – for Data Visualization
+Tools used • SQL – for Data cleaning  • Power BI – for Data Visualization
 
 Process followed
 
